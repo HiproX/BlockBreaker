@@ -120,7 +120,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aeb7ce1fbbb416e4aa92e4f97bda3fb5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  autoPlay: 1
+  autoPlay: 0
 --- !u!60 &8428055241632515655
 PolygonCollider2D:
   m_ObjectHideFlags: 0
